@@ -1,0 +1,3 @@
+# whatsapp-chat-insights
+
+Extracting simple insights from exported chat messages, like message count of each sender , peak days(high amount of messages) , dry days , chart of message count along with time , most used used words , etc ...
